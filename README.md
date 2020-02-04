@@ -1,7 +1,7 @@
-# cs203-S2020-lab3-solution
+# cs203-S2020-lab3-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
-repository contains the solution for Laboratory 3 in Computer Science 203. As
+repository contains the starter for Laboratory 3 in Computer Science 203. As
 part of this assignment, you should answer all of the questions in the
 `reflection.md` file, furnishing evidence of your contributions to this week's
 effort towards completing the long-term software engineering project. Students
